@@ -6,10 +6,10 @@ export const LOGO_URL2 =
 "https://cdn.pixabay.com/photo/2024/04/04/17/58/ai-generated-8675674_1280.jpg";
 
 export const RES_URL=
-"https://thingproxy.freeboard.io/fetch/https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6465998&lng=77.3395938&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING";
+"https://foodfire.onrender.com/api/restaurants?lat=28.6465998&lng=77.3395938&page_type=DESKTOP_WEB_LISTIN";
 
 export const MENU_API = 
-"https://thingproxy.freeboard.io/fetch/https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.6465998&lng=77.3395938&restaurantId=";
+"https://foodfire.onrender.com/api/menu?page-type=REGULAR_MENU&complete-menu=true&lat=28.6465998&lng=77.3395938&&submitAction=ENTER&restaurantId=";
 
 
 
